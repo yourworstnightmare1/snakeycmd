@@ -1,2 +1,3 @@
 # snakeycmd
-An adaptation of classic Snake in command Prompt
+###### an adaptation of the classic Snake game in Command Prompt
+___
